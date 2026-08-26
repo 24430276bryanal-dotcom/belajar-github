@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    halo saya frontend
+    halo saya frontend ❤❤🤣
 </body>
 </html>
